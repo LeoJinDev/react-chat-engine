@@ -1,16 +1,4 @@
-<p align="center" >
-    <p align="center" >
-        <a href="https://chatengine.io/">
-            <img    
-                alt="react-chat-engine" 
-                style='max-height: 333px; max-width: 100%;'
-                src="https://chat-engine-assets.s3.amazonaws.com/react-chat-engine.gif" 
-            />
-        </a>
-    </p>
-</p>
-
-## Chat Engine
+## React chat
 
 Chat Engine is a free serverless chat API.
 
